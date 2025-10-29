@@ -30,7 +30,8 @@
 - Fix & Validation:
 
 ## Screenshots
-![Install USB Devices Lab Screenshot](<./Cables and Connectors/2.1.7 Lab Install USB Devices Screenshot.png>)
+![Install USB Devices Lab Screenshot](<../Cables and Connectors/2.1.7 Lab Install USB Devices Screenshot.png>)
+
 
 
 
