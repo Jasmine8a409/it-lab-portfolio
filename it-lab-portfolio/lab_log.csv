@@ -1,0 +1,2 @@
+date,platform,cert,lab_topic,skills,hours,video_url,repo_path
+2025-10-29,TestOut,A+,Windows 10 Clean Install (UEFI + GPT),"imaging, partitioning, updates",1.5,,labs/Aplus/windows10-clean-install
