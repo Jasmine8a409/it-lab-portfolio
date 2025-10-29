@@ -30,7 +30,11 @@
 - Fix & Validation:
 
 ## Screenshots
-(Place images in this folder and reference here.)
+[![CompTIA A+ Lab: Install USB Devices][thumb]][video]
+
+[thumb]: https://img.youtube.com/vi/abcd1234hq/default.jpg
+[video]: https://youtu.be/QezgJi0-tuA
+
 
 ## What I Learned
 - I learned that the printer power cable differs from the standard AC cable (ie, HP printers).
