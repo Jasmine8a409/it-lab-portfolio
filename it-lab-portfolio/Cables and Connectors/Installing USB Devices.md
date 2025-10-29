@@ -30,10 +30,14 @@
 - Fix & Validation:
 
 ## Screenshots
-[![CompTIA A+ Lab: Install USB Devices][thumb]][video]
+![Alt text][image1]
 
-[thumb]: https://youtu.be/QezgJi0-tuA
-[video]: https://youtu.be/QezgJi0-tuA
+[image1]: it-lab-portfolio/Cables and Connectors/2.1.7 Lab Install USB Devices Screenshot.png
+"Lab 2.1.7 Install USB Devices"
+
+it-lab-portfolio/Cables and Connectors/2.1.7 Lab Install USB Devices Screenshot.png
+
+
 
 
 ## What I Learned
