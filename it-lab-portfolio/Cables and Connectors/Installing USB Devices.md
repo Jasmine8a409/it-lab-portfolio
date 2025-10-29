@@ -30,16 +30,7 @@
 - Fix & Validation:
 
 ## Screenshots
-https://github.com/Jasmine8a409/it-lab-portfolio/blob/e9e77b1a96813cee5e90c79e3ce9bfd726c86779/it-lab-portfolio/Cables%20and%20Connectors/2.1.7%20Lab%20Install%20USB%20Devices%20Screenshot.png
-
-
-
-[image1]: it-lab-portfolio/Cables and Connectors/2.1.7 Lab Install USB Devices Screenshot.png
-"Lab 2.1.7 Install USB Devices"
-
-it-lab-portfolio/Cables and Connectors/2.1.7 Lab Install USB Devices Screenshot.png
-
-
+![Install USB Devices Lab Screenshot](<./Cables and Connectors/2.1.7 Lab Install USB Devices Screenshot.png>)
 
 
 ## What I Learned
