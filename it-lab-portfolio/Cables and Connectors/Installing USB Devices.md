@@ -33,6 +33,7 @@
 ![Install USB Devices Lab Screenshot](<./Cables and Connectors/2.1.7 Lab Install USB Devices Screenshot.png>)
 
 
+
 ## What I Learned
 - I learned that the printer power cable differs from the standard AC cable (ie, HP printers).
 - While it may seem simple, the differing cables can still trip someone up if they don't look correctly and verify that the correct cables are there.
