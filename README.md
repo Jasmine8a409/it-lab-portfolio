@@ -1,2 +1,2 @@
 # it-lab-portfolio
-Hands-on IT portfolio showcasing CompTIA A+, Network+, and CCNA lab simulations. Demonstrates technical troubleshooting, system configuration, networking, and cybersecurity fundamentals through documented labs and video walkthroughs.
+Documenting my journey from IT student to professional technician. This repo contains hours of verified hands-on practice using TestOut LabSim, CompTIA CertMaster Labs, and home virtual environments. Topics include PC hardware, operating systems, networking, and security.
