@@ -32,7 +32,7 @@
 ## Screenshots
 [![CompTIA A+ Lab: Install USB Devices][thumb]][video]
 
-[thumb]: https://img.youtube.com/vi/abcd1234hq/default.jpg
+[thumb]: it-lab-portfolio/Cables and Connectors/2.1.7 Lab Install USB Devices Screenshot.png
 [video]: https://youtu.be/QezgJi0-tuA
 
 
