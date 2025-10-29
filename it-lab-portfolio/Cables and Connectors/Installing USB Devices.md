@@ -30,7 +30,10 @@
 - Fix & Validation:
 
 ## Screenshots
-![Alt text][image1]
+![USB Lab Screenshot](it-lab-portfolio/Cables and Connectors/2.1.7 Lab Install USB Devices Screenshot.png)
+![USB Lab Screenshot](./2.17_Lab_Install_USB_Devices_Screenshot.png)
+
+
 
 [image1]: it-lab-portfolio/Cables and Connectors/2.1.7 Lab Install USB Devices Screenshot.png
 "Lab 2.1.7 Install USB Devices"
