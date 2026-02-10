@@ -1,43 +1,70 @@
-# Lab Report — Install USB Devices
+# Lab Report — 2.1.7 Lab: Install USB Devices
 
-**Date:** 10/29/2025  
-**Platform:**  CertMaster  
-**Category/Cert:** CompTIA A+  
-**Video:** https://youtu.be/QezgJi0-tuA
+## General Information
+- **Date:** 10/29/2025
+- **Platform:** CertMaster
+- **Category/Cert:** CompTIA A+ Part 1
+- **Activity:** New Computer Installation (Corporate Office)
+- **Video Reference:** [▶️ Click here to watch the Lab Walkthrough]https://www.youtube.com/watch?v=QezgJi0-tuA)
+
+---
 
 ## Objectives
-- Place the USB Hub on the workbench and connect it to the computer.
-- Connect the following devices to the USB Hub:
-    Inkjet Printer
-    Laser Printer
-    Scanner
-- Place the portable USB hard drive on the workbench and connect it to the computer.
+* Establish Workspace Power Distribution
+* Integrate Input, Output, and Specialized Peripherals
+* Configure Wired Network Connectivity
+* Perform Initial System Power-On and Validation
 
+---
 
 ## Environment / Tools
-- OS / Version:
-- Tools / Commands:
-- Network Topology (if any):
+- **OS / Version:** Windows 10 (Simulated)
+- **Tools / Hardware:**
+    - Power Distribution: Wall outlet, Power strip (Surge protector)
+    - Input: USB Keyboard, USB Mouse
+    - Output: 3.5mm Analog Speakers, HDMI/DP Monitor
+    - Specialized: Desktop Printer (USB)
+    - Connectivity: Cat6 Ethernet Cable (RJ-45)
+
+---
 
 ## Steps (High Level)
-1. I unplug and unpower the devices
-2. I picked the cables for each device and plugged them up individually.
-3. Once plugged in and everything is in, I check to see if I completed the tasks.
+1. **Power Infrastructure Setup** Connected the power strip directly to the wall outlet. This serves as the central power hub for the workstation, monitor, and printer.
+
+2. **Peripheral Integration (On-Bench)**
+   Connected the keyboard and mouse to available USB Type-A ports on the computer. Attached the analog speakers to the lime-green 3.5mm jack. Added the monitor and printer to the workspace, connecting them to the PC via video and USB cables, respectively.
+
+
+
+3. **Power Distribution**
+   Plugged the power cables for the Computer (PSU), Monitor, and Printer into the power strip to ensure all devices are grounded and powered.
+
+4. **Network Configuration**
+   Connected a standard Ethernet cable (RJ-45) from the computer's Network Interface Card (NIC) to the designated network wall plate to establish a wired LAN connection.
+
+5. **Validation**
+   Toggled the power strip to the "On" position. Powered on the monitor first, followed by the computer system. Observed the boot sequence to verify that the OS loaded successfully.
+
+---
 
 ## Troubleshooting Notes
-- Symptoms:
-- Root Cause:
-- Fix & Validation:
+- **Symptoms:** The printer is not appearing as "Ready" in the operating system despite being plugged into the computer.
+- **Root Cause:** The printer was connected via USB, but its independent power cable was not plugged into the power strip.
+- **Fix & Validation:** Connected the printer's power cord to the surge protector and cycled the printer's power button; the OS immediately recognized the device.
+
+---
 
 ## Screenshots
-![Install USB Devices Lab Screenshot](<../Cables and Connectors/2.1.7 Lab Install USB Devices Screenshot.png>)
+> ![Install USB Devices Lab Screenshot](<../Cables and Connectors/2.1.7 Lab Install USB Devices Screenshot.png>)
 
-
-
+---
 
 ## What I Learned
-- I learned that the printer power cable differs from the standard AC cable (ie, HP printers).
-- While it may seem simple, the differing cables can still trip someone up if they don't look correctly and verify that the correct cables are there.
+- **Workflow Efficiency:** I learned that setting up the power infrastructure first (the power strip) makes managing multiple device cables much cleaner than trying to reach for the wall outlet repeatedly.
+- **Cable Identification:** Practiced distinguishing between the network port (RJ-45) and older phone ports (RJ-11) to ensure proper internet connectivity.
+
+---
 
 ## Next Time / Variations
-- I will note which cable goes where when I unplug them.
+- **Cable Management:** I would like to use cable sleeves to bundle the monitor, printer, and power cables together for a more professional "corporate" look. I will note which cable goes where when I unplug them.
+- **Dual Monitor Setup:** I'd like to attempt connecting a second monitor to practice configuring "Extended Desktop" mode within the Windows Display Settings.
