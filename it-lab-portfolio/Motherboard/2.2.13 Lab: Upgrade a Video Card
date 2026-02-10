@@ -1,0 +1,61 @@
+# Lab Report — 2.2.13 Lab: Upgrade a Video Card
+
+## General Information
+- **Date:** 10/29/2025
+- **Platform:** CertMaster
+- **Category/Cert:** CompTIA A+ Part 1
+- **Video Walkthrough:** [📺 View Video Card Upgrade Demonstration](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+---
+
+## Objectives
+* Safely Remove Legacy Video Hardware
+* Identify and Install a High-Performance GPU
+* Establish High-Definition Video Connectivity
+* Ensure Supplemental Power Delivery to Hardware
+
+---
+
+## Environment / Tools
+- **OS / Version:** Windows 10 (Simulated)
+- **Tools / Hardware:**
+    - **Removal:** Antistatic wrist strap, existing VGA/DVI cable, legacy PCI video card.
+    - **Replacement:** High-end PCIe x16 Video Card (HDMI/DisplayPort capable).
+    - **Connectivity:** DisplayPort or HDMI cable (for modern HD output).
+    - **Power:** 6-pin or 8-pin PCIe power connector from the PSU.
+
+---
+
+## Steps (High Level)
+1. **Hardware Decommissioning:** Disconnected the video cable from the monitor and the back of the PC first. Opened the case, unscrewed the expansion slot bracket, and carefully released the PCIe locking tab to remove the old video card.
+2. **GPU Selection and Installation:** Selected a modern video card capable of Blu-ray/HD playback. Seated the new card into the primary PCIe x16 slot until the locking tab clicked. Secured the bracket with the case screw.
+
+
+
+3. **Power and Connectivity:** Connected the necessary PCIe power cable from the Power Supply Unit (PSU) to the top of the video card. Connected the monitor to the GPU using a DisplayPort cable to ensure the most modern connection available.
+4. **Final Validation:** Closed the computer case, reconnected power, and booted the system to verify that the new card initialized and the monitor displayed a high-definition signal.
+
+---
+
+## Troubleshooting Notes
+- **Symptoms:** System boots, but there is no display on the monitor and the GPU fans are not spinning.
+- **Root Cause:** The supplemental PCIe power connector (6-pin/8-pin) was not seated into the video card.
+- **Fix & Validation:** Power down, plug in the PCIe power lead from the PSU, and restart; the GPU initialized and display output returned.
+
+---
+
+## Screenshots
+> *Place images in the `/screenshots` folder and reference here.*
+
+---
+
+## What I Learned
+- **Connection Priority:** I learned to always remove the external cables before pulling hardware internally to prevent port damage.
+- **Modern Standards:** Identified that DisplayPort/HDMI are the current standards for HD content, replacing older analog (VGA) and digital (DVI) connections.
+- **Power Requirements:** Modern high-performance GPUs require dedicated power directly from the PSU, unlike low-profile cards that draw power solely from the motherboard slot.
+
+---
+
+## Next Time / Variations
+- **Driver Installation:** In a real-world scenario, I would proceed to install the latest WHQL drivers from the manufacturer's website (NVIDIA/AMD) to ensure all "additional features" are unlocked.
+- **Thermal Management:** I’d like to check the system's airflow to ensure the new, more powerful card has enough cooling to handle high-definition movie playback without overheating.
